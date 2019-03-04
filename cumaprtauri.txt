@@ -2,4 +2,7 @@ lapte1
 paine
 oua
 bere
+
+tuica
+
 cafea
